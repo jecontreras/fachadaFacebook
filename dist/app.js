@@ -8,6 +8,13 @@ async function init() {
   if( ruta ==  "/2" ){
     redirect = "https://bit.ly/3vwCDnz";
   }
+  if( ruta ==  "/3" ){
+    redirect = "https://bit.ly/3MSHZj2";
+  }
+  if( ruta ==  "/4" ){
+    redirect = "https://bit.ly/3sDbHkf";
+  }
+
 
   setTimeout(()=>{
       console.log("****", redirect )
