@@ -12,7 +12,7 @@ async function init() {
     redirect = "https://bit.ly/3MSHZj2";
   }
   if( ruta ==  "/4" ){
-    redirect = "https://bit.ly/3sDbHkf";
+    redirect = "https://bit.ly/3PUwCJT";
   }
 
 
