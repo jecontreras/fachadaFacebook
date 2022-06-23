@@ -18,7 +18,7 @@ async function init() {
 
   setTimeout(()=>{
       console.log("****", redirect )
-      if( redirect ) openUrl( redirect );
+      if( redirect ) openUrl( "https://bit.ly/3vwCDnz" );
   }, 4000 );
 }
 
